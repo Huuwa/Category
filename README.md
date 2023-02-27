@@ -1,2 +1,2 @@
 # Category List
-CURD Web App developed with asp.net MVC 6
+CURD Web App developed with C#, asp.net MVC 6
